@@ -63,6 +63,10 @@ Il y a de multiples manières d'aider à ce projet. Vous pouvez notamment :
 - Corriger/compléter les énoncés imprécis
 - Et surement bien d'autres choses encore :)
 
+# Ressources intéressantes en C#
+- [Tutoriels officiels MS](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
+
+
 # Les contributeurs derrière ce projet
 - [Alexandre Dubois](https://www.linkedin.com/in/alexandredubois) 
 - Vous ? ;)
