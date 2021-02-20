@@ -29,6 +29,8 @@ Dans ce README, je décrirais l'usage avec *Visual Studio Community* et *Visual 
 - Les exceptions
 - Les énumérations
 - Les expressions régulières
+- Les types génériques
+- LINQ
 
 # Comment résoudre un exercice ?
 Pour résoudre chaque exercice, il faut éditer le corps de fonction associée, puis lancer les tests unitaires associés pour valider la solution proposée.
