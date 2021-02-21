@@ -15,7 +15,7 @@ namespace CSharpDiscoveryTests.Quest03Tests
         [TestMethod]
         public void BeginsWithSpecificCharacter_basic_doNotStart()
         {
-            Assert.IsTrue(_06_BeginsWithSpecificCharacter.BeginsWithSpecificCharacter("alexandre", 'g'));
+            Assert.IsFalse(_06_BeginsWithSpecificCharacter.BeginsWithSpecificCharacter("alexandre", 'g'));
         }
     }
 }

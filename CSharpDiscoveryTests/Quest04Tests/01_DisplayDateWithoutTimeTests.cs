@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace CSharpDiscoveryTests.Quest05Tests
+namespace CSharpDiscoveryTests.Quest04Tests
 {
     [TestClass]
     public class _01_DisplayDateWithoutTimeTests
