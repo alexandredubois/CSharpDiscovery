@@ -65,6 +65,7 @@ Il y a de multiples manières d'aider à ce projet. Vous pouvez notamment :
 
 # Ressources intéressantes en C#
 - [Tutoriels officiels MS](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
+- [Cheat sheet C#] (https://hackr.io/blog/c-sharp-cheat-sheet)
 
 
 # Les contributeurs derrière ce projet
